@@ -1,0 +1,6 @@
+{
+  "name": "HydroSense IoT - Monitoreo de Cultivos Hidropónicos",
+  "description": "Sistema profesional de monitoreo hidropónico con base de datos local y Supabase, alertas en tiempo real, gestión de sensores ESP32/Arduino, códigos QR, firmas digitales y reportes en PDF, Excel y Word.",
+  "requestFramePermissions": ["notifications", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
